@@ -4,8 +4,8 @@
 
 I'm a full-stack developer and AI enthusiast solving and learning my way through different problems one step at a time. 
 
-- ㉿ Visit my [porfolio website](https://kgujral2612.github.io/webdev-portfolio/) for my background and contact information.
-- ✍🏼 Sometimes, I write about tech stuff on [medium](https://medium.com/@connect2kaushambi)
+- ㉿ Let's connect on [LinkedIn](https://www.linkedin.com/in/kaushambi-gujral/) !
+- ✍🏼 Sometimes, I write on [medium](https://medium.com/@connect2kaushambi)
 
 ---
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
